@@ -19,4 +19,4 @@ This project aims to create a very light BLE beacon for my young turtle, so that
 - The FTDI to HM-10 (or HM-19) wirings
 
 
-https://github.com/guido57/Tarta-BLE-Beacon/blob/main/PIctures/FTDI%20to%20HM-10.jpg
+
