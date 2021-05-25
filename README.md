@@ -15,7 +15,8 @@ This project aims to create a very light BLE beacon for my young turtle, so that
 [![](PIctures/CR2032%20battery%20and%20its%20holder.jpg)](PIctures/CR2032%20battery%20and%20its%20holder.jpg)
 - The CR2032 battery and its battery holder.
 
-[![](PIctures/CR2032%20battery%20and%20its%20holder.jpg)](PIctures/CR2032%20battery%20and%20its%20holder.jpg)
-- The CR2032 battery and its battery holder.
+[![](PIctures/FTDI%20to%20HM-10.jpg)](PIctures/FTDI%20to%20HM-10.jpg)
+- The FTDI to HM-10 (or HM-19) wirings
 
 
+https://github.com/guido57/Tarta-BLE-Beacon/blob/main/PIctures/FTDI%20to%20HM-10.jpg
