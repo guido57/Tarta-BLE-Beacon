@@ -4,5 +4,5 @@ This project aims to create a very light BLE beacon for my young turtle, so that
 
 ### She is Tarta
 
-[![](https://github.com/guido57/Tarta-BLE-Beacon/blob/main/Tarta.PNG)](https://github.com/guido57/Tarta-BLE-Beacon/blob/main/Tarta.PNG)
+[![](https://github.com/guido57/Tarta-BLE-Beacon/blob/main/pictures/Tarta.PNG)](https://github.com/guido57/Tarta-BLE-Beacon/blob/main/pictures/Tarta.PNG)
 - The BLE Radio Beacon attached to the "poor" Tarta.
