@@ -12,4 +12,10 @@ This project aims to create a very light BLE beacon for my young turtle, so that
 [![](PIctures/HM-19.PNG)](PIctures/HM-19.PNG)
 - The BLE 5.0 HM-19 modul by DSD-Tech.
 
+[![](PIctures/CR2032%20battery%20and%20its%20holder.jpg)](PIctures/CR2032%20battery%20and%20its%20holder.jpg)
+- The CR2032 battery and its battery holder.
+
+[![](PIctures/CR2032%20battery%20and%20its%20holder.jpg)](PIctures/CR2032%20battery%20and%20its%20holder.jpg)
+- The CR2032 battery and its battery holder.
+
 
