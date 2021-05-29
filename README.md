@@ -18,5 +18,8 @@ This project aims to create a very light BLE beacon for my young turtle, so that
 [![](PIctures/FTDI%20to%20HM-10.jpg)](PIctures/FTDI%20to%20HM-10.jpg)
 - The FTDI to HM-10 (or HM-19) wirings
 
+### Configure HM-10 as a BLE Beacon
+
+https://circuitdigest.com/microcontroller-projects/how-to-setup-hm-10-ble-module-as-ibeacon
 
 
